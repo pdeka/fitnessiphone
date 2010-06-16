@@ -1,0 +1,16 @@
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:12: warning: cannot find interface declaration for 'Product'
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:12: error: no declaration of property 'type' found in the interface
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:12: error: no declaration of property 'name' found in the interface
+/Users/pdeka/dev/iphone/fitness/Classes/product.m: In function '+[Product productWithType:name:]':
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:17: warning: 'Product' may not respond to '+alloc'
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:17: warning: (Messages without a matching method signature
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:17: warning: will be assumed to return 'id' and accept
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:17: warning: '...' as arguments.)
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:18: error: request for member 'type' in something not a structure or union
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:19: error: request for member 'name' in something not a structure or union
+/Users/pdeka/dev/iphone/fitness/Classes/product.m: In function '-[Product dealloc]':
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:26: error: 'type' undeclared (first use in this function)
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:26: error: (Each undeclared identifier is reported only once
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:26: error: for each function it appears in.)
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:27: error: 'name' undeclared (first use in this function)
+/Users/pdeka/dev/iphone/fitness/Classes/product.m:28: error: no super class declared in @interface for 'Product'

@@ -1,0 +1,306 @@
+Tfitness
+v7
+r0
+t298351238.548542
+cCheck dependencies
+cProcessInfoPlistFile /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/Info.plist fitness-Info.plist
+cCompileXIB /Users/pdeka/dev/iphone/fitness/MainWindow.xib
+cCompileXIB /Users/pdeka/dev/iphone/fitness/fitnessViewController.xib
+cProcessPCH /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch.gch fitness_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/main.o /Users/pdeka/dev/iphone/fitness/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessAppDelegate.o /Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessViewController.o /Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/product.o /Users/pdeka/dev/iphone/fitness/Classes/product.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.h
+c000000004C18355B00000000000001DF
+t1276654939
+s479
+i<UIKit/UIKit.h>
+
+N/Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m
+c000000004C18355B00000000000002A3
+t1276654939
+s675
+i"fitnessAppDelegate.h"
+i"fitnessViewController.h"
+
+N/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.h
+c000000004C1842F900000000000003F8
+t1276658425
+s1016
+i<UIKit/UIKit.h>
+
+N/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m
+c000000004C184304000000000000172F
+t1276658436
+s5935
+i<UIKit/UIKit.h>
+i"FitnessViewController.h"
+i"Product.h"
+
+N/Users/pdeka/dev/iphone/fitness/Classes/product.h
+c000000004C183B1B0000000000000149
+t1276656411
+s329
+
+N/Users/pdeka/dev/iphone/fitness/Classes/product.m
+c000000004C183AFC00000000000001F3
+t1276656380
+s499
+i"Product.h"
+
+N/Users/pdeka/dev/iphone/fitness/Classes/untitled.h
+c000000004C183AC700000000000000D6
+t1276656327
+s214
+i<Foundation/Foundation.h>
+
+N/Users/pdeka/dev/iphone/fitness/Classes/untitled.m
+c000000004C183AC700000000000000BE
+t1276656327
+s190
+i"untitled.h"
+
+N/Users/pdeka/dev/iphone/fitness/MainWindow.xib
+c000000004C1839840000000000004B55
+t1276656004
+s19285
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app
+t1276656924
+s238
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app.dSYM
+t1276656924
+s102
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/Info.plist
+t1276655265
+s593
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/MainWindow.nib
+t1276656009
+s1510
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/PkgInfo
+t1276655265
+s8
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness
+t1276656924
+s27616
+
+N/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitnessViewController.nib
+t1276656596
+s1787
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitness.LinkFileList
+c000000004C183BD400000000000001EE
+t1276656596
+s494
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessAppDelegate.o
+t1276658425
+s38276
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessViewController.o
+t2
+s0
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/main.o
+t1276655266
+s5936
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/product.o
+t1276656596
+s9408
+
+N/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/pdeka/dev/iphone/fitness/fitnessViewController.xib
+c000000004C183BCF00000000000049EA
+t1276656591
+s18922
+
+N/Users/pdeka/dev/iphone/fitness/fitness_Prefix.pch
+c000000004C18355B00000000000000B7
+t1276654939
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pdeka/dev/iphone/fitness/main.m
+c000000004C18355B0000000000000169
+t1276654939
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch.gch
+t1276655266
+s13026768
+
+Nfitness-Info.plist
+c000000004C18355B000000000000038D
+t1276654939
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298351238#298351238#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessAppDelegate.o /Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298351225.513265
+e298351225.607007
+r1
+xCompileC
+xbuild/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessAppDelegate.o
+x/Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m298351225#298351225#0(0"0(0#0#60"/Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m4300911832#1818"    cd /Users/pdeka/dev/iphone/fitness    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-generated-files.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-own-target-headers.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-all-target-headers.hmap -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-project-headers.hmap -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -I/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/include -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources/i386 -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources -include /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch -c /Users/pdeka/dev/iphone/fitness/Classes/fitnessAppDelegate.m -o /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessAppDelegate.o0#
+
+CCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessViewController.o /Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298351238.440755
+e298351238.548456
+r0
+xCompileC
+xbuild/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessViewController.o
+x/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m: In function '-[fitnessViewController viewDidLoad]':
+o/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m:40: error: request for member 'tableView' in something not a structure or union
+o/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m:41: error: request for member 'tableView' in something not a structure or union
+lSLF07#2@71"Compile /Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m298351238#298351238#0(405"/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m: In function '-[fitnessViewController viewDidLoad]':/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m:40: error: request for member 'tableView' in something not a structure or union/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m:41: error: request for member 'tableView' in something not a structure or union2(4@68"Request for member 'tableView' in something not a structure or union298351238#117#144#0(6@63"/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m298351236#40#0#40#0#0"0(4@68"Request for member 'tableView' in something not a structure or union298351238#261#144#0(6@63"/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m298351236#41#0#41#0#0"0(0#0#63"/Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m4300911832#1824"    cd /Users/pdeka/dev/iphone/fitness    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-generated-files.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-own-target-headers.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-all-target-headers.hmap -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-project-headers.hmap -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -I/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/include -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources/i386 -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources -include /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch -c /Users/pdeka/dev/iphone/fitness/Classes/fitnessViewController.m -o /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitnessViewController.o1#
+
+CCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/main.o /Users/pdeka/dev/iphone/fitness/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348066.570524
+e298348066.729937
+r1
+xCompileC
+xbuild/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/main.o
+x/Users/pdeka/dev/iphone/fitness/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/pdeka/dev/iphone/fitness/main.m298348066#298348066#0(0"0(0#0#38"/Users/pdeka/dev/iphone/fitness/main.m4300911832#1782"    cd /Users/pdeka/dev/iphone/fitness    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-generated-files.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-own-target-headers.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-all-target-headers.hmap -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-project-headers.hmap -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -I/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/include -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources/i386 -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources -include /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch -c /Users/pdeka/dev/iphone/fitness/main.m -o /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/main.o0#
+
+CCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/product.o /Users/pdeka/dev/iphone/fitness/Classes/product.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298349396.641316
+e298349396.690279
+r1
+xCompileC
+xbuild/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/product.o
+x/Users/pdeka/dev/iphone/fitness/Classes/product.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/pdeka/dev/iphone/fitness/Classes/product.m298349396#298349396#0(0"0(0#0#49"/Users/pdeka/dev/iphone/fitness/Classes/product.m4300911832#1796"    cd /Users/pdeka/dev/iphone/fitness    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-generated-files.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-own-target-headers.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-all-target-headers.hmap -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-project-headers.hmap -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -I/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/include -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources/i386 -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources -include /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch -c /Users/pdeka/dev/iphone/fitness/Classes/product.m -o /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/product.o0#
+
+CCompileC build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/untitled.o /Users/pdeka/dev/iphone/fitness/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/pdeka/dev/iphone/fitness/MainWindow.xib
+s298348809.326416
+e298348809.776291
+r1
+xCompileXIB
+x/Users/pdeka/dev/iphone/fitness/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298348809#298348809#0(0"0(0#0#46"/Users/pdeka/dev/iphone/fitness/MainWindow.xib4300911832#461"    cd /Users/pdeka/dev/iphone/fitness    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/MainWindow.nib /Users/pdeka/dev/iphone/fitness/MainWindow.xib0#
+
+CCompileXIB /Users/pdeka/dev/iphone/fitness/fitnessViewController.xib
+s298349396.313358
+e298349396.572188
+r1
+xCompileXIB
+x/Users/pdeka/dev/iphone/fitness/fitnessViewController.xib
+lSLF07#2@36"CompileXIB fitnessViewController.xib298349396#298349396#0(0"0(0#0#57"/Users/pdeka/dev/iphone/fitness/fitnessViewController.xib4300911832#483"    cd /Users/pdeka/dev/iphone/fitness    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitnessViewController.nib /Users/pdeka/dev/iphone/fitness/fitnessViewController.xib0#
+
+CGenerateDSYMFile /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app.dSYM /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness
+s298349724.822666
+e298349724.834816
+r1
+xGenerateDSYMFile
+x/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app.dSYM
+x/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/fitness.app.dSYM build/Debug-iphonesimulator/fitness.app/fitness298349724#298349724#0(0"0(0#0#79"/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness4300911832#362"    cd /Users/pdeka/dev/iphone/fitness    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness -o /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app.dSYM0#
+
+CLd /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness normal i386
+s298349724.771328
+e298349724.822570
+r1
+xLd
+x/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness
+xnormal
+xi386
+lSLF07#2@84"Link /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness298349724#298349724#0(0"0(0#0#0"4300911832#829"    cd /Users/pdeka/dev/iphone/fitness    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -filelist /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/Objects-normal/i386/fitness.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/fitness0#
+
+CProcessInfoPlistFile /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/Info.plist fitness-Info.plist
+s298348065.315518
+e298348065.343446
+r1
+xProcessInfoPlistFile
+x/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/Info.plist
+xfitness-Info.plist
+lSLF07#2@26"Process fitness-Info.plist298348065#298348065#0(0"0(0#0#50"/Users/pdeka/dev/iphone/fitness/fitness-Info.plist32370056120631408#458"    cd /Users/pdeka/dev/iphone/fitness    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility fitness-Info.plist -genpkginfo /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app/Info.plist0#
+
+CProcessPCH /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch.gch fitness_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348065.623957
+e298348066.570389
+r1
+xProcessPCH
+x/var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch.gch
+xfitness_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile fitness_Prefix.pch298348065#298348066#0(0"0(0#0#50"/Users/pdeka/dev/iphone/fitness/fitness_Prefix.pch4300911832#1681"    cd /Users/pdeka/dev/iphone/fitness    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-generated-files.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-own-target-headers.hmap -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-all-target-headers.hmap -iquote /Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/fitness-project-headers.hmap -F/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator -I/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/include -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources/i386 -I/Users/pdeka/dev/iphone/fitness/build/fitness.build/Debug-iphonesimulator/fitness.build/DerivedSources -c /Users/pdeka/dev/iphone/fitness/fitness_Prefix.pch -o /var/folders/L-/L-5RYW2tGnaI0zG2uvHRzE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/fitness_Prefix-fivqgkynofilhkesllixsilhqyah/fitness_Prefix.pch.gch0#
+
+CTouch /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app
+s298349724.834889
+e298349724.837147
+r1
+xTouch
+x/Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app
+lSLF07#2@77"Touch /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app298349724#298349724#0(0"0(0#0#0"4300911832#264"    cd /Users/pdeka/dev/iphone/fitness    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pdeka/dev/iphone/fitness/build/Debug-iphonesimulator/fitness.app0#
+
